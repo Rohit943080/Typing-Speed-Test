@@ -24,8 +24,8 @@ Build small project to measure typing speed, accuracy, incorrect words
 ## 🚀 Example Output
 Here’s a sample output:
 
-⌛ Time taken: 42.3 seconds
-🖊 Gross speed: 35.14 WPM
-✅ Net speed:   32.85 WPM
-🎯 Accuracy:    93.45 %
-❌ Wrong words: ['calcuated', 'Grosss']
+- ⌛ Time taken: 42.3 seconds
+- 🖊 Gross speed: 35.14 WPM
+- ✅ Net speed:   32.85 WPM
+- 🎯 Accuracy:    93.45 %
+- ❌ Wrong words: ['calcuated', 'Grosss']
